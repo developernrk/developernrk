@@ -1,4 +1,3 @@
-![Hi, my name is Navin Barange](https://media.licdn.com/dms/image/v2/D5616AQEcLNZaRDe8dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705208737383?e=1733356800&v=beta&t=qo9oDznW3RPOuCWPa9qbkyVBWJHEEZe38JAalCJrv24)
 
 <div id="toc">
   <ul align="center" style="list-style: none">

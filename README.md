@@ -10,7 +10,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/navinbarange" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/https://www.instagram.com/nrk_navin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/nrk_navin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/navinbarange" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/nrk_navin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/nrk_navin" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 

@@ -20,8 +20,8 @@
 - 🌱 I'm currently learning: **📚 Exploring Next.js and Remix.js**
 - 💬 Ask me about: **💡 Java, SpringBoot, JavaScript, React, MongoDB, and RESTful APIs, Design patterns**
 - ⚡ Fun fact: **🎢 Developers don’t make mistakes; they just create unexpected features and happy little bugs! 😄💻**
-- 📂 Portfolio: **<a href="https://www.nrknavin.com" target="_blank">https://www.nrknavin.in</a>**
-- 📝 Blog: **<a href="https://www.nrknavin.com/blog" target="_blank">https://www.nrknavin.in/blog</a>**
+- 📂 Portfolio: **<a href="https://www.nrknavin.com" target="_self">https://www.nrknavin.in</a>**
+- 📝 Blog: **<a href="https://www.nrknavin.com/blog" target="_self">https://www.nrknavin.in/blog</a>**
 
 
  **<h3 align="left">Skills</h3>**
